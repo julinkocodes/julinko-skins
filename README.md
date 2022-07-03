@@ -7,6 +7,9 @@ these are my osu! skins that I use mostly
 ## [JesusOmega {EZ}『Planets』](https://skins.osuck.net/index.php?newsid=1489) (EZ Mod)
 ![screenshot868](https://user-images.githubusercontent.com/47834577/175839207-a4a6b041-ac7e-497a-ab2c-816e8db05b5d.jpg)
 
+## [rem (nk)](https://drive.google.com/file/d/1iWhOJTTTWZ6lSBdUmLhdRlYrBCtYDOVA/view) (Alternate Skin)
+![68747470733a2f2f692e696d6775722e636f6d2f30486845526b752e6a7067](https://user-images.githubusercontent.com/47834577/177021586-7ceda113-67e3-4d74-b8e3-e960c33f9738.jpg)
+
 ## [Rafis 2018-03-26 HDDT](https://skins.osuck.net/index.php?newsid=166) (DT Mod, Only used in Tournaments/AR 10.3 Practice)
 ![screenshot876](https://user-images.githubusercontent.com/47834577/175840117-32b9690e-93ac-4fa4-936b-561cc6acff16.jpg)
 
